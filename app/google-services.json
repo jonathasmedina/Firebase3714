@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "760178740811",
+    "firebase_url": "https://professor-c5c04-default-rtdb.firebaseio.com",
+    "project_id": "professor-c5c04",
+    "storage_bucket": "professor-c5c04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760178740811:android:f801bcc6475f377ae0c7ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWnafqraSveIghGBbk8PFT-_ajCp4wqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760178740811:android:9d14077d5a92dae1e0c7ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase3714"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWnafqraSveIghGBbk8PFT-_ajCp4wqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
